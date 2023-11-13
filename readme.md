@@ -1,4 +1,4 @@
-##PanCard Tempering
+# PanCard Tempering
 Problem Statement:
 The purpose of this project is to detect tampering of PAN cards using computer vision. This project will help different organizations in detecting whether the ID i.e. the PAN card provided to them by their employees or customers or anyone is original or not.
 For this project, we will calculate the structural similarity of the original PAN card and the PAN card uploaded by the user.
